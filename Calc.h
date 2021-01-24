@@ -7,6 +7,9 @@ class Calc{
 
 public:
     Calc(int val);
+    Calc(const Calc &rhs);
+    ~Calc();
+    const Calc &operator=(const Calc &rhs);
         double process(string userInput, double prevValue);
 
         void print();
@@ -18,4 +21,6 @@ public:
 private:
     size_t stored;
 
-}
+};
+
+#endif //Calc_H
