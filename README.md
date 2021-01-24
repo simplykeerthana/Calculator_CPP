@@ -18,8 +18,9 @@ If n==1, then you will be asked to enter the expressions numbers one-by-one like
 Screenshots of Running Code...
 
 to compile and run
-screenshots/compile_run.png
-![Image](compile_run.png)
+
+<img width="1001" alt="compile_run" src="https://user-images.githubusercontent.com/34112414/105639663-93c85200-5e47-11eb-89ee-e582b1f32276.png">
+
 
 running with 1 expressions:
 
