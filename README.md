@@ -19,7 +19,7 @@ Screenshots of Running Code...
 
 to compile and run
 screenshots/compile_run.png
-
+![Image](compile_run.png)
 
 running with 1 expressions:
 
