@@ -24,15 +24,17 @@ to compile and run
 
 running with 1 expressions:
 
-screenshots/1_expreessions.png
+<img width="1001" alt="1_expreessions" src="https://user-images.githubusercontent.com/34112414/105639680-a8a4e580-5e47-11eb-91f6-04acaa27c1a6.png">
+
 
 running with 2 expressions:
 
-screenshots/2_expressions.png
+<img width="1001" alt="2_expressions" src="https://user-images.githubusercontent.com/34112414/105639686-b490a780-5e47-11eb-8a62-b11534ed822c.png">
 
 running with 3 expressions:
 
-screenshots/3_expressions.png
+<img width="1001" alt="3_expressions" src="https://user-images.githubusercontent.com/34112414/105639702-c3775a00-5e47-11eb-9266-d8f55911ef75.png">
+
 
 
 This program should run with n number of expressions. To improve this application, I will add UI to imitate a real calculator UI, the memory management code will ensure to give user a real calculator expressions. Also C++ code and efficieny ensures that the application is faster. 
